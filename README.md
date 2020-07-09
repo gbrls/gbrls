@@ -7,17 +7,17 @@ It's always better when you can show what you're working on to your friends and 
 ## Myncraft
 [Myncraft](https://github.com/gbrls/myncraft/) is a 3D voxel based game inspired by it's homophone.
 
-<img src="https://github.com/gbrls/myncraft/blob/master/screenshots/last-0.jpg" width=500>
+<img src="https://github.com/gbrls/myncraft/blob/master/screenshots/last-0.jpg" width=300>
 
 ## Jacquin's Hell
 [Jacquin's Hell](https://github.com/gbrls/if669-jogo) is a raycasting game that I made with some friends as an assignment.
-<img src="https://raw.githubusercontent.com/gbrls/if669-jogo/master/jogo-3.jpg" width=500>
+<img src="https://raw.githubusercontent.com/gbrls/if669-jogo/master/jogo-3.jpg" width=300>
 
 ## CHIP-8 Mk2
 [CHIP-8 Mk2](https://github.com/gbrls/chip-8-mk2) is a CHIP-8 emulator with a debugger interface.
 
 
-<img src="https://raw.githubusercontent.com/gbrls/chip-8-mk2/master/chip-8.jpg" width=500>
+<img src="https://raw.githubusercontent.com/gbrls/chip-8-mk2/master/chip-8.jpg" width=300>
 
 
 

@@ -7,10 +7,10 @@
 
 Those are some of by best projets:
 
-- \[C++\] [**Myncraft**](https://github.com/gbrls/myncraft/) is a 3D voxel based game inspired by it's homophone.
-- \[C\] [**Jacquin's Hell**](https://github.com/gbrls/if669-jogo) is a raycasting game that I made with some friends as an assignment.
-- \[C\] [**CHIP-8 Mk2**](https://github.com/gbrls/chip-8-mk2) is a CHIP-8 emulator with a debugger interface.
-- \[C\] [**MyLisp**](https://github.com/gbrls/myLisp) is a lisp-like programming language, it's not good, but it was really fun to implement. I learnt a lot of things in the process, I even wrote a little bit about it.
+- [**Myncraft**](https://github.com/gbrls/myncraft/) is a 3D voxel based game inspired by it's homophone.
+- [**Jacquin's Hell**](https://github.com/gbrls/if669-jogo) is a raycasting game that I made with some friends as an assignment.
+- [**CHIP-8 Mk2**](https://github.com/gbrls/chip-8-mk2) is a CHIP-8 emulator with a debugger interface.
+- [**MyLisp**](https://github.com/gbrls/myLisp) is a lisp-like programming language, it's not good, but it was really fun to implement. I learnt a lot of things in the process, I even wrote a little bit about it.
 
 <details>
   <summary>It's always better when you can show what you're working on to your friends and family so here are some pics.</summary>

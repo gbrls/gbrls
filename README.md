@@ -3,7 +3,7 @@
 
 
 - I like to create fun things like OpenGL games, Emulators, Programming Languages, and whatever catches my interest.
-- I'm also a Computer Engineering undergrad student at UFPE.
+- Computer Engineering undergrad student at UFPE.
 
 Those are some of by best projets:
 

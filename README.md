@@ -15,7 +15,12 @@ Those are some of by best projets:
 - [**Microc**](https://github.com/gbrls/rust-microc) is a compiler for MicroC (a subset of C) that targets the x86_64 architecture.
 
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrls&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</br>
+<details>
+  <summary>Most used languages</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrls&langs_count=10&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 <details>
   <summary>It's always better when you can show what you're working on to your friends and family so here are some pics.</summary>
 <img src="https://github.com/gbrls/myncraft/blob/master/screenshots/last-0.jpg" width=300> <img src="https://raw.githubusercontent.com/gbrls/if669-jogo/master/jogo-3.jpg" width=300> <img src="https://raw.githubusercontent.com/gbrls/chip-8-mk2/master/chip-8.jpg" width=300>

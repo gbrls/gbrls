@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gbrls.gbrls)
-<a rel="me" href="https://infosec.exchange/@gbrls">Mastodon</a>
+
 
 
 - I like to create fun things like OpenGL games, Emulators, Programming Languages, and whatever catches my interest.
@@ -19,6 +19,8 @@ Those are some of by best projets:
   <summary>It's always better when you can show what you're working on to your friends and family so here are some pics.</summary>
 <img src="https://github.com/gbrls/myncraft/blob/master/screenshots/last-0.jpg" width=300> <img src="https://raw.githubusercontent.com/gbrls/if669-jogo/master/jogo-3.jpg" width=300> <img src="https://raw.githubusercontent.com/gbrls/chip-8-mk2/master/chip-8.jpg" width=300>
 </details>
+
+<a rel="me" href="https://infosec.exchange/@gbrls">Follow me on Mastodon</a>
 
 <!--
 **gbrls/gbrls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

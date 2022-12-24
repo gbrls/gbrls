@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gbrls.gbrls)
+<a rel="me" href="https://infosec.exchange/@gbrls">Mastodon</a>
 
 
 - I like to create fun things like OpenGL games, Emulators, Programming Languages, and whatever catches my interest.
